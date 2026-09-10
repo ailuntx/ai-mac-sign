@@ -2,7 +2,7 @@
 
 Effective date / 生效日期: 2026-09-10
 
-Publisher / 发布者: ailuntz
+Publisher / 发布者: 沈阳霓虹星桥科技工作室（个人独资） / ailuntz
 
 Website: https://www.ailuntz.com
 

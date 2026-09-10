@@ -11,7 +11,7 @@
     "displayName": "AI Mac Sign",
     "shortDescription": "自动为当前或指定 macOS 项目签名与校验",
     "longDescription": "直接告诉 Codex 要签名的项目或 App，自动识别产物、复用本机开发证书、签名并严格校验。可指定签名输出位置，或通过项目配置重建后签名。临时副本校验通过后才替换目标，保留原有权限声明。需要本地 Mac 终端和系统钥匙串中的有效证书；不上传 App 或私钥，不代替系统首次授权或公证。",
-    "developerName": "ailuntz",
+    "developerName": "沈阳霓虹星桥科技工作室（个人独资）",
     "category": "Developer Tools",
     "capabilities": [],
     "defaultPrompt": [
