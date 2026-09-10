@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-10",
+  "unit_and_integration_tests_passed": 9,
+  "projects": {
+    "cap": {
+      "bundle_id": "com.ailuntz.Cap",
+      "strict_verification": true,
+      "previous_requirement_verified": true,
+      "first_cdhash": "542918591fdcf36256fdbd89feea9ac32d8a05db",
+      "rebuilt_cdhash": "b5a21ecc72712db9d65ab7e67438a143b7c8c3a7",
+      "team": "VL6J93V58S",
+      "launch": "installed app process confirmed",
+      "ui": "passed"
+    },
+    "minibridge": {
+      "bundle_id": "com.ailuntz.MiniBridge",
+      "strict_verification": true,
+      "previous_requirement_verified": true,
+      "first_cdhash": "7c94a36ed9cf6e5f5b6457b205ac4bfb49fc762a",
+      "rebuilt_cdhash": "7c94a36ed9cf6e5f5b6457b205ac4bfb49fc762a",
+      "team": "VL6J93V58S",
+      "launch": "installed app process confirmed",
+      "ui": "not verified: computer-use native pipe closed"
+    }
+  },
+  "privacy_permission_persistence": "not tested"
+}

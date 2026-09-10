@@ -1,0 +1,32 @@
+{
+  "name": "ai-mac-sign",
+  "version": "0.1.0+codex.20260910114032",
+  "description": "Automatically sign and verify local macOS apps using an existing development certificate, from the current project or a specified path.",
+  "author": {
+    "name": "ailuntz",
+    "url": "https://www.ailuntz.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "AI Mac Sign",
+    "shortDescription": "自动为当前或指定 macOS 项目签名与校验",
+    "longDescription": "直接告诉 Codex 要签名的项目或 App，自动识别产物、复用本机开发证书、签名并严格校验。可指定签名输出位置，或通过项目配置重建后签名。临时副本校验通过后才替换目标，保留原有权限声明。需要本地 Mac 终端和系统钥匙串中的有效证书；不上传 App 或私钥，不代替系统首次授权或公证。",
+    "developerName": "ailuntz",
+    "category": "Developer",
+    "capabilities": [],
+    "defaultPrompt": [
+      "给当前项目自动签名并校验。",
+      "重建并签名指定 macOS 项目，放到我的 Applications。",
+      "给这个 App 签名，验证它是否仍满足旧版本的签名身份要求。"
+    ],
+    "brandColor": "#3277DC",
+    "logo": "./assets/logo.png",
+    "composerIcon": "./assets/icon.png",
+    "websiteURL": "https://www.ailuntz.com",
+    "privacyPolicyURL": "https://github.com/ailuntx/ai-mac-sign/blob/main/docs/privacy.md",
+    "termsOfServiceURL": "https://github.com/ailuntx/ai-mac-sign/blob/main/docs/terms.md"
+  },
+  "homepage": "https://github.com/ailuntx/ai-mac-sign",
+  "repository": "https://github.com/ailuntx/ai-mac-sign",
+  "license": "SEE LICENSE IN LICENSE"
+}
