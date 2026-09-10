@@ -1,0 +1,13 @@
+{
+  "name": "ai-mac-sign",
+  "displayName": "AI Mac Sign",
+  "version": "0.1.0",
+  "date": "2026-09-10",
+  "status": "Published",
+  "skillScan": "Passed",
+  "review": "Approved",
+  "directoryUrl": "https://chatgpt.com/plugins/plugins_6aa2994c60f08191ad89867e0ea1546a",
+  "sourceUrl": "https://github.com/ailuntx/ai-mac-sign",
+  "category": "Developer Tools",
+  "publisher": "沈阳霓虹星桥科技工作室（个人独资）"
+}
